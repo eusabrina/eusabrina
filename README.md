@@ -1,6 +1,6 @@
 ![Capa](https://github.com/eusabrina/eusabrina/blob/main/Imagem1.png)
 
-### Seja bem vindo (a)!
+### Seja bem vindo (a)! 👋
 <br>
 
 #### Sobre mim
