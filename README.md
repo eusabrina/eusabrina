@@ -3,7 +3,7 @@
 ### Seja bem vindo (a)! 👋
 <br>
 
-#### Sobre mim
+####  Sobre mim
 
 - Tenho 4 anos de experiência na área de dados. 
 - Desenvolvi habilidades de criação de relatórios automatizados, tratamento de dados e criação de dashboards. 
@@ -13,19 +13,19 @@
 
 <br>
  
-#### Algumas das minhas formações:
+#### 🎓 Algumas das minhas formações:
 - Pós-Graduação Análise de Dados, Data Mining e Inteligência Artificial (FIA – Business School) - Em Andamento
 - MBA Inteligência de Mercado (IBRAMERC – Live Universitys) 
 - Bacharel Engenharia Civil (UNIP – Universidade Paulista) 
 
 <br>
 
-#### Objetivo:
+#### 📌 Objetivo:
 Poder compartilhar o conhecimento que já adquiri até aqui. :heart:  📖
 
 <br>
 
-#### Frase de vida:
+#### 🔮 Frase de vida:
 Por mais difícil que seja, no final tudo sempre da certo. E se não deu certo ainda, é porque não chegou no final. <span>&#129310;</span> :heart:
 
 <br>
