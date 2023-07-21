@@ -1,19 +1,30 @@
 ![Capa](https://github.com/eusabrina/eusabrina/blob/main/Imagem1.png)
 
-<p align=center> 
-  <a href = "https://www.linkedin.com/in/ana-paula-machado-005/"><img src="linkedin1.png" width = 30px> </a> 
-  <a href = "https://medium.com/@vieirapmachado"><img src="medium1.png" width = 30px> </a> 
-</p>
 ### Seja bem vindo (a)!
 #### Sobre mim
-Sou natural do Pará, Engenheira Química, e aspirante a Cientista de Dados. <br>
-Iniciei meus estudos na área de Ciência de Dados em 2020 e me fascino a cada dia mais por esse mundo cheio de possibilidades. <br>
+
+Tenho 4 anos de experiência na área de dados
+
+Desenvolvi habilidades de criação de relatórios automatizados, tratamento de dados e criação de dashboards.
+
+Possuo um amplo conhecimento das ferramentas do Pacote Office, com foco especial no Excel e Power BI (Power Query, Power Pivot, DAX), o que me permite gerar insights valiosos para a área de negócios. 
+
+Tenho conhecimento na liguagem SQL, em que utilizo para fazer consultas e extrações de bancos de dados. 
+
+E também, na linguagem VBA, onde utilizo para fazer automação de planilhas.
+
+
+
 #### Algumas das minhas formações:
 - Ciência da Computação (UNIP) - Em Andamento
 - Especialização em Ciência de Dados e Big Data (PUC Minas) - Em Andamento
 - Formação Cientista de Dados - FCD (Data Science Academy -  DSA) - Em Andamento
+
+
 #### Curiosidades
 :heart: Gosto bastante de ler, de ouvir um bom rock'n'roll, e dançar carimbó.
+
+
 ### Repositórios
 - <b>Python</b>
   - [Exploração básica de Dados](https://github.com/avmachado/pythonspark/blob/main/Exercicios-Cap03.ipynb)
