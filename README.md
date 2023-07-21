@@ -20,8 +20,14 @@
 
 <br>
 
-#### Curiosidades
-:heart: Gosto bastante de ler, de ouvir um bom rock'n'roll, e dançar carimbó.
+#### Objetivo:
+:heart: Por mais difícil que seja, no final tudo sempre da certo. E se não deu certo ainda, é porque não chegou no final.
+
+
+<br>
+
+#### Frase de vida:
+:heart: Por mais difícil que seja, no final tudo sempre da certo. E se não deu certo ainda, é porque não chegou no final.
 
 <br>
 
