@@ -3,11 +3,11 @@
 ### Seja bem vindo (a)! 👋
 <br>
 
-####  Sobre mim
+####  	&#128587;&#8205;&#9792;&#65039; Sobre mim
 
 - Tenho 4 anos de experiência na área de dados. 
 - Desenvolvi habilidades de criação de relatórios automatizados, tratamento de dados e criação de dashboards. 
-- Possuo um amplo conhecimento das ferramentas do Pacote Office, com foco especial no Excel e Power BI (Power Query, Power Pivot, DAX), o que me permite gerar insights valiosos para a área de negócios.    
+- Possuo um amplo conhecimento das ferramentas do Pacote Office, com foco especial no Excel e Power BI (Power Query, Power Pivot, DAX), o que me permite gerar insights valiosos para a área de negócios.    👧:
 - Tenho conhecimento na liguagem SQL, em que utilizo para fazer consultas e extrações de bancos de dados. 
 - E também, na linguagem VBA, onde utilizo para fazer automação de planilhas.
 
