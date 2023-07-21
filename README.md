@@ -1,30 +1,33 @@
 ![Capa](https://github.com/eusabrina/eusabrina/blob/main/Imagem1.png)
 
 ### Seja bem vindo (a)!
+<br>
+
 #### Sobre mim
 
-Tenho 4 anos de experiência na área de dados
+- Tenho 4 anos de experiência na área de dados. 
+- Desenvolvi habilidades de criação de relatórios automatizados, tratamento de dados e criação de dashboards. 
+- Possuo um amplo conhecimento das ferramentas do Pacote Office, com foco especial no Excel e Power BI (Power Query, Power Pivot, DAX), o que me permite gerar insights valiosos para a área de negócios.    
+- Tenho conhecimento na liguagem SQL, em que utilizo para fazer consultas e extrações de bancos de dados. 
+- E também, na linguagem VBA, onde utilizo para fazer automação de planilhas.
 
-Desenvolvi habilidades de criação de relatórios automatizados, tratamento de dados e criação de dashboards.
-
-Possuo um amplo conhecimento das ferramentas do Pacote Office, com foco especial no Excel e Power BI (Power Query, Power Pivot, DAX), o que me permite gerar insights valiosos para a área de negócios. 
-
-Tenho conhecimento na liguagem SQL, em que utilizo para fazer consultas e extrações de bancos de dados. 
-
-E também, na linguagem VBA, onde utilizo para fazer automação de planilhas.
-
-
-
+<br>
+ 
 #### Algumas das minhas formações:
 - Pós-Graduação Análise de Dados, Data Mining e Inteligência Artificial (FIA – Business School) - Em Andamento
 - MBA Inteligência de Mercado (IBRAMERC – Live Universitys) 
 - Bacharel Engenharia Civil (UNIP – Universidade Paulista) 
 
+<br>
 
 #### Curiosidades
 :heart: Gosto bastante de ler, de ouvir um bom rock'n'roll, e dançar carimbó.
 
+<br>
 
+
+
+<!--
 ### Repositórios
 - <b>Python</b>
   - [Exploração básica de Dados](https://github.com/avmachado/pythonspark/blob/main/Exercicios-Cap03.ipynb)
