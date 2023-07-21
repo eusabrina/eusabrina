@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Capa](https://github.com/eusabrina/eusabrina/blob/main/Imagem1.png)
 
 <p align=center> 
