@@ -21,13 +21,12 @@
 <br>
 
 #### Objetivo:
-:heart: Por mais difícil que seja, no final tudo sempre da certo. E se não deu certo ainda, é porque não chegou no final.
-
+Poder compartilhar o conhecimento que já adquiri até aqui. :heart:  📖
 
 <br>
 
 #### Frase de vida:
-:heart: Por mais difícil que seja, no final tudo sempre da certo. E se não deu certo ainda, é porque não chegou no final.
+Por mais difícil que seja, no final tudo sempre da certo. E se não deu certo ainda, é porque não chegou no final. <span>&#129310;</span> :heart:
 
 <br>
 
