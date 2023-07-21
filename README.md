@@ -1,6 +1,6 @@
 ### Hi there 👋
+![Capa](https://github.com/eusabrina/eusabrina/blob/main/Imagem1.png)
 
-![Capa](https://github.com/avmachado/avmachado/blob/master/card.png)
 <p align=center> 
   <a href = "https://www.linkedin.com/in/ana-paula-machado-005/"><img src="linkedin1.png" width = 30px> </a> 
   <a href = "https://medium.com/@vieirapmachado"><img src="medium1.png" width = 30px> </a> 
