@@ -16,9 +16,9 @@ E também, na linguagem VBA, onde utilizo para fazer automação de planilhas.
 
 
 #### Algumas das minhas formações:
-- Ciência da Computação (UNIP) - Em Andamento
-- Especialização em Ciência de Dados e Big Data (PUC Minas) - Em Andamento
-- Formação Cientista de Dados - FCD (Data Science Academy -  DSA) - Em Andamento
+- Pós-Graduação Análise de Dados, Data Mining e Inteligência Artificial (FIA – Business School) - Em Andamento
+- MBA Inteligência de Mercado (IBRAMERC – Live Universitys) 
+- Bacharel Engenharia Civil (UNIP – Universidade Paulista) 
 
 
 #### Curiosidades
